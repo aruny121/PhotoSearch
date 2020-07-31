@@ -8,7 +8,7 @@ Application contains following things --
 4. Constants and Network file is there , to handle hard coded data . 
 5. LivePageListAdapter is used to handle pagination. 
 
-#thrid party api used 
+#third party api used 
 
 
 
